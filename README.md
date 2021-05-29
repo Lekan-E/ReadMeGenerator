@@ -11,9 +11,9 @@ A terminal app that helps user to generate a ReadMe.md file based on the user's 
 - Tests
 - Questions
 
-How to Install
+# How to Install
 User needs to install modules using npm install or install [axios, inquirer and fs]
 
-Demo
+# Demo
 Here is a sample of how the project runs
 
